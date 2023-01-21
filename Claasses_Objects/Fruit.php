@@ -10,6 +10,7 @@ class Fruit {
         return $this->name;
     }
 }
+
 $apple = new Fruit();
 // check if an object belongs to a specific class
 var_dump($apple instanceof Fruit);
