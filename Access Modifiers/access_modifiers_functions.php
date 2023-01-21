@@ -1,5 +1,6 @@
 
 <!-- access modifiers to functions -->
+
 <?php
 class Fruit {
     public $name;
